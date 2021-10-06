@@ -1,1 +1,3 @@
-# Brazilian-Wordlists
+# Wordlists
+
+Wordlists Brazilian Portuguese based.
